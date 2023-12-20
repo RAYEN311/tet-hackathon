@@ -1,4 +1,4 @@
 <?PHP 
 $rayen = "main";
-tomorrow wed
+"tomorrow"
 ?>
